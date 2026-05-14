@@ -108,3 +108,17 @@ Here are some ideas to get you started:
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=joaodantas-eng&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 
 -----
+
+<table>
+<tr>
+<td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
+<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@joaodantas">WakaTime</a></td>
+</tr> 
+<tr>
+<td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td>
+<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&langs_count=12"/></td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+</td>
+</tr>
+</table>
