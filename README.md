@@ -116,9 +116,9 @@ Here are some ideas to get you started:
 </tr> 
 <tr>
 <td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td>
-<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&langs_count=12"/></td>
+<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaodantas&theme=dark&langs_count=12"/></td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaodantas&theme=dark&layout=compact"/>
 </td>
 </tr>
 </table>
