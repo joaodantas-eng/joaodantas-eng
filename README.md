@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="SVG" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNrYmR1ZGZ1cXlvc3Vmbm91M21hZ254N3lydThwdjlsOTl1aGQzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gvY2IXr0N6gV8IHZLU/giphy.gif"/>Meus interesses pessoais:
 
 <table>
 <tr>
