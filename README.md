@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <div>
 
-<img height="20" alt="SVG" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev2.gif?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
 
 <table>
 <tr>
@@ -79,13 +79,11 @@ Here are some ideas to get you started:
 - 🛠️ Tenho grande interesse pelo universo automotivo, incluindo mecânica, acessórios, customização e estética automotiva.<br />
 - 🎨 Gosto de design minimalista, criação de logos e identidade visual, principalmente para projetos automotivos e tecnológicos.<br />
 - 🥋 Pratico jiu-jitsu e curto esportes que exigem disciplina, estratégia e constância.<br />
-- 🎮 Sou fã de videogames, especialmente Nintendo Switch e da franquia Pokémon. Atualmente comecei minha jornada pelos jogos principais da série.<br />
-- ⌚ Tenho interesse em relógios esportivos e clássicos, especialmente modelos inspirados em peças icônicas como o Audemars Piguet Royal Oak e Omega Speedmaster.<br />
-- 📷 Também gosto de fotografia, drones e criação de imagens/artes com estilo cinematográfico e minimalista.<br />
-- 🍝 Curto cozinhar receitas simples e práticas, principalmente massas e pratos rápidos.<br />
+- 🎮 Sou apaixonado por videogames no geral, principalmente jogos de aventura, exploração e franquias clássicas.<br />
 - 🚗 Gosto da cultura garage/car enthusiast e acompanho conteúdos sobre carros, projetos automotivos e acessórios.<br />
-- 💡 Tenho interesse em unir tecnologia, design e praticidade para criar projetos úteis no mundo real.<br />
+- ⚙️ Tenho interesse em unir tecnologia, design e praticidade para criar projetos úteis no mundo real.<br />
 - 📚 Atualmente estudo Engenharia de Software e busco evoluir constantemente minhas habilidades em programação e arquitetura de sistemas.<br />
+- ⚫⚪ Sou atleticano desde pequeno e acompanho o <a href="https://atletico.com.br/" target="_blank">Clube Atlético Mineiro</a> sempre que possível.<br />
 - 🤝 Gosto de aprender coisas novas, compartilhar conhecimento e ajudar pessoas sempre que possível.<br />
 </p>
 </div>
@@ -102,6 +100,7 @@ Here are some ideas to get you started:
 </table>
 
 </div>
+
 
 -----
 
