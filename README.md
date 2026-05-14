@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 </td>
 <td>
 <div>
-<img alt="SVG" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNrYmR1ZGZ1cXlvc3Vmbm91M21hZ254N3lydThwdjlsOTl1aGQzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gvY2IXr0N6gV8IHZLU/giphy.gif" width="170px" height="650px" />
+<img alt="SVG" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1rOTd4ZHFxdXRpY2NqNjZzdDVwZDE4YTd2aTN0cnoweXZoZmhkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SazcqpR9b63r6t91LX/giphy.gif" width="170px" height="650px" />
 </div>
 </td>
 </tr>
