@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/joaodantas-eng/joaodantas-eng/blob/main/headertech.jpg?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/joaodantas-eng/joaodantas-eng/blob/main/github-header-banner.png?raw=true"/>
 </div>
 
 -----
