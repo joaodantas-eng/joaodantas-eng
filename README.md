@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-<!--
-**joaodantas-eng/joaodantas-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 -----
 
 <div>
@@ -145,7 +131,7 @@ Here are some ideas to get you started:
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=k4n9v72azwyxl7uku1lna7h7z&count=10"/>
 </td>
 <td>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+
 <a href="https://www.last.fm/pt/user/joaodantass" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaodantass&width=400"/></a>
 </td>
 </tr>
@@ -161,7 +147,6 @@ Here are some ideas to get you started:
 
 [![Profile Views](https://komarev.com/ghpvc/?username=joaodantas-eng&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
-[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=joaodantas-eng&theme=default&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
-
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=joaodantas-eng&theme=radical&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
 
 -----
