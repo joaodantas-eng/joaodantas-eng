@@ -157,3 +157,9 @@ Here are some ideas to get you started:
 
 
 -----
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=joaodantas-eng&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
+
+
+-----
