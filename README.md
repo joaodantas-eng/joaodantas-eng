@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="<img width="1774" height="887" alt="header" src="https://github.com/user-attachments/assets/73263a5d-50da-422f-874b-1849ebf69790" />"/>
+<img align="center" alt="Header" src="<img width="1774" height="887" alt="header" src="terminal-banner-github.png" />
 </div>
 
 -----
