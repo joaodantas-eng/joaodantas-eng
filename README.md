@@ -60,13 +60,12 @@
 
 <div>
 
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td width="500px" >
-<div align="justify">
+<table> <tr>
+
+<td width="500px">
+
+<div align="center">
+
 <p>
 * 💻 Desenvolvo projetos buscando transformar ideias em soluções simples, funcionais e fáceis de usar.<br />
 * 🧠 Ainda estou descobrindo a área da tecnologia que mais combina comigo, mas tenho uma afinidade especial com desenvolvimento backend.<br />
