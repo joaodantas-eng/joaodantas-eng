@@ -60,11 +60,11 @@
 
 <div>
 
-<table> <tr>
+<table align="center" > <tr>
 
 <td width="500px">
 
-<div align="center">
+<div align="justify">
 
 <p>
 * 💻 Desenvolvo projetos buscando transformar ideias em soluções simples, funcionais e fáceis de usar.<br />
