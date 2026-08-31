@@ -50,22 +50,22 @@
 <td width="500px" >
 <div align="justify">
 <p> 
-- 💻 Atualmente desenvolvo projetos focados em sistemas desktop local-first, automação e organização de oficinas e estoque.<br />
-- 🛠️ Tenho grande interesse pelo universo automotivo, incluindo mecânica, acessórios, customização e estética automotiva.<br />
-- 🎨 Gosto de design minimalista, criação de logos e identidade visual, principalmente para projetos automotivos e tecnológicos.<br />
+- 💻 Desenvolvo projetos buscando transformar ideias em soluções simples, funcionais e fáceis de usar.<br />
+- 🧠 Ainda estou descobrindo a área da tecnologia que mais combina comigo, mas tenho uma afinidade especial com desenvolvimento backend.<br />
+- ☕ Gosto de aprender na prática, criando projetos e explorando novas tecnologias durante o processo.<br />
 - 🥋 Pratico jiu-jitsu e curto esportes que exigem disciplina, estratégia e constância.<br />
-- 🎮 Sou apaixonado por videogames no geral, principalmente jogos de aventura, exploração e franquias clássicas.<br />
-- 🚗 Gosto da cultura garage/car enthusiast e acompanho conteúdos sobre carros, projetos automotivos e acessórios.<br />
 - ⚙️ Tenho interesse em unir tecnologia, design e praticidade para criar projetos úteis no mundo real.<br />
-- 📚 Atualmente estudo Engenharia de Software e busco evoluir constantemente minhas habilidades em programação e arquitetura de sistemas.<br />
-- ⚫⚪ Sou atleticano desde pequeno e acompanho o <a href="https://atletico.com.br/" target="_blank">Clube Atlético Mineiro</a> sempre que possível.<br />
-- 🤝 Gosto de aprender coisas novas, compartilhar conhecimento e ajudar pessoas sempre que possível.<br />
+- 📚 Atualmente estudo Engenharia de Software e busco evoluir constantemente minhas habilidades em programação e desenvolvimento de sistemas.<br />
+- 🛠️ Gosto de transformar problemas do dia a dia em ideias para projetos que possam facilitar tarefas e tornar processos mais eficientes.<br />
+- 🔍 Tenho curiosidade em entender como as coisas funcionam por trás das aplicações e gosto de explorar diferentes formas de resolver um mesmo problema.<br />
+- 🚀 Busco crescer na área de tecnologia através de projetos, estudos e experiências que me desafiem a sair da zona de conforto.<br />
+- 🤝 Acredito que aprender, experimentar e construir são algumas das melhores formas de evoluir na tecnologia.<br />
 </p>
 </div>
 </td>
 <td>
 <div>
-<img alt="SVG" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1rOTd4ZHFxdXRpY2NqNjZzdDVwZDE4YTd2aTN0cnoweXZoZmhkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SazcqpR9b63r6t91LX/giphy.gif" width="170px" height="650px" />
+<img alt="SVG" src="https://i.pinimg.com/1200x/7e/43/ba/7e43bad3e5acbaf117bf4021711d1612.jpg" width="170px" height="650px" />
 </div>
 </td>
 </tr>
