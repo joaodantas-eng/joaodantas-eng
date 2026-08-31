@@ -27,6 +27,12 @@
   </td>
 
   <td align="center">
+    <a href="https://wa.me/5537991705517" target="_blank">
+      <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/>
+    </a>
+  </td>
+
+  <td align="center">
     <a href="https://www.instagram.com/joaopedrosilvadantas/" target="_blank">
       <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/>
     </a>
@@ -119,9 +125,11 @@ Gosto especialmente de explorar a relação entre **tecnologia, design e comunic
 
 ## 🛠️ Tecnologias
 
+Atualmente estou em formação e **ainda não domino todas essas tecnologias por completo**. Tenho experiência prática com algumas delas e sigo estudando e desenvolvendo projetos para aprofundar meus conhecimentos.
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github,vscode,spring" />
 
 </div>
 
@@ -129,9 +137,7 @@ Gosto especialmente de explorar a relação entre **tecnologia, design e comunic
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+**Java** · **Python** · **JavaScript** · **HTML** · **CSS** · **Git** · **GitHub** · **VS Code** · **Spring Boot**
 
 </div>
 
@@ -158,7 +164,9 @@ Sistema desenvolvido durante a graduação com foco no registro e acompanhamento
 
 ### 🚗 JR Film — Site Institucional
 
-Site institucional desenvolvido para uma oficina mecânica, com foco em apresentação dos serviços, contato com clientes e estrutura preparada para futuras funcionalidades.
+Site institucional desenvolvido para uma oficina mecânica, com foco na apresentação dos serviços, contato com clientes e experiência de navegação.
+
+O projeto foi desenvolvido **com auxílio de Inteligência Artificial durante o processo de desenvolvimento**, utilizada como ferramenta de apoio para implementação, exploração de soluções e evolução do projeto.
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS
 
@@ -199,16 +207,6 @@ Estou sempre buscando novos projetos para colocar em prática o que estudo, expe
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=joaodantas-eng\&layout=normal\&stats_format=percentages\&theme=default\&hide_border=false\&border_radius=4.5\&card_width=466\&locale=pt-br\&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
-
-</div>
-
----
-
 ## ⏱️ WakaTime
 
 <div align="center">
@@ -235,8 +233,8 @@ Estou sempre buscando novos projetos para colocar em prática o que estudo, expe
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/dantasdesignlab/">
-<img src="https://img.shields.io/badge/Dantas%20Design%20Lab-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://wa.me/5537991705517">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>
