@@ -62,13 +62,12 @@
 
 <table>
 <tr>
-
-<td width="500px">
-
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="500px" >
 <div align="justify">
-
 <p>
-
 * 💻 Desenvolvo projetos buscando transformar ideias em soluções simples, funcionais e fáceis de usar.<br />
 * 🧠 Ainda estou descobrindo a área da tecnologia que mais combina comigo, mas tenho uma afinidade especial com desenvolvimento backend.<br />
 * 📚 Atualmente estudo Engenharia de Software e busco evoluir constantemente minhas habilidades em programação e desenvolvimento de sistemas.<br />
