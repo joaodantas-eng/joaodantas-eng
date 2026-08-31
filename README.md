@@ -162,7 +162,7 @@ Sistema desenvolvido durante a graduação com foco no registro e acompanhamento
 
 <td width="50%" valign="top">
 
-<a href="https://jrfilm.vercel.app/" target="_blank">### 🚗 JR Film — Site Institucional</a>
+### 🚗 JR Film — Site Institucional
 
 Site institucional desenvolvido para uma oficina mecânica, com foco na apresentação dos serviços, contato com clientes e experiência de navegação.
 
@@ -171,7 +171,11 @@ O projeto foi desenvolvido **com auxílio de Inteligência Artificial durante o 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS
 
 <a href="https://github.com/joaodantas-eng/jr-film-site">
-<img src="https://img.shields.io/badge/Ver%20projeto-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://jrfilm.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Acessar%20site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
