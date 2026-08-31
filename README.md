@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![banner](banner.png)
+![banner estilo terminal](banner2.png)
 
 </div>
 
