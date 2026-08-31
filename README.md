@@ -162,7 +162,7 @@ Sistema desenvolvido durante a graduação com foco no registro e acompanhamento
 
 <td width="50%" valign="top">
 
-### 🚗 JR Film — Site Institucional
+<a href="https://jrfilm.vercel.app/" target="_blank">### 🚗 JR Film — Site Institucional</a>
 
 Site institucional desenvolvido para uma oficina mecânica, com foco na apresentação dos serviços, contato com clientes e experiência de navegação.
 
